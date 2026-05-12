@@ -17,3 +17,10 @@ This project implements a multi-layered encryption system that I designed from s
 | 5 | Wild Card | 🔲 Not started |
 
 ## Running the Project
+## Author
+
+**Phoenix Pham** — Year 9, 2026
+
+## License
+
+MIT License — see [LICENSE](LICENSE) for details.
