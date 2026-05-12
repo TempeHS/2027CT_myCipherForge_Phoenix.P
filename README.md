@@ -24,4 +24,3 @@ This project implements a multi-layered encryption system that I designed from s
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
-docs: set up initial README for CipherForge
