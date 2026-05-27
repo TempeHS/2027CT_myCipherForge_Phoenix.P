@@ -251,6 +251,7 @@ def phase4_decrypt(text, key):
 
 def phase5_encrypt(text, key):
     """[reverse the string]."""
+
     result = text[::-1]
 
     return result
